@@ -1,0 +1,18 @@
+# IAs Generativas: A aplicação das IAs Generativas como ferramenta de estudo 
+
+## 📒 Descrição
+Este podcast de 09 minutos aborta uma forma transformadora no uso das IAs Generativas na educação.
+
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[NotebookLM](https://notebooklm.google.com/)** para roteirização, criação de podcast e tradução de idioma;
+
+## 🧐 Processo de Criação
+Fui em busca de um tema relevante que gostaria de estudar e separei um vídeo da plataforma Youtube como fonte de aprendizado. Utilizei o "NotebookLM" para absorver o conteúdo do vídeo com sua transcrição em texto e criação de áudio. Como a plataforma só cria o áudio no idioma Inglês, criei parâmetros que fizessem a IA realizar a tradução do inglês para o português do brasil tornando o podcast acessível a todos os brasileiros. 
+
+## 🚀 Resultados
+O Podcast apresenta o diálogo leve entre duas pessoas abordando os principais temas da Revolução Pernambucana. O estudo demonstra como as IAs Generativas podem ser uma ferramenta poderosa de estudo e criação e conteúdo no ramo da Educação. 
+
+[LINK PARA O PODCAST](https://notebooklm.google.com/notebook/f9de734c-bdb0-4e7d-8ab5-be4445f7d88c/audio)
+
+## 💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
